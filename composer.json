@@ -2,7 +2,9 @@
     "name": "php-arsenal/document-value-updater",
     "description": "",
     "autoload": {
-        "PhpArsenal\\DocumentValueUpdater\\": "src"
+        "psr-4": {
+            "PhpArsenal\\DocumentValueUpdater\\": "src"
+        }
     },
     "require": {
         "php": ">=7.4",
