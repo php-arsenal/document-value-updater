@@ -1,0 +1,12 @@
+{
+    "name": "php-arsenal/document-value-updater",
+    "description": "",
+    "autoload": {
+        "PhpArsenal\\DocumentValueUpdater\\": "src"
+    },
+    "require": {
+        "php": ">=7.4",
+        "symfony/property-access": "^5.2",
+        "doctrine/annotations": "^1.12"
+    }
+}
